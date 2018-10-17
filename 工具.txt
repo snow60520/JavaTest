@@ -1,0 +1,22 @@
+版本控制
+1,git 开元的，代码管理
+https://github.com/
+
+客服端
+1，pwd  确认要建立的项目文件地址
+2，git clone远程仓库地址
+3,cd Clone本地仓库
+4,git add 文件名（将需要上传到远程仓库的文件加入缓存, .是当前所有文件）
+5,git commit -m "本次修改说明 "
+6,git pust 保存
+
+下载远程仓库
+git 
+
+
+2.svn
+http://www.alisvn.com/
+下载远程文件到仓库
+
+3.其它技术
+vpn
